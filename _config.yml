@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: gagalab@qq.com
 description: "Enjoy your life and work."
 keyword: "发育生物学, 生物化学与分子生物学, 细胞生物学, 生物信息学, liuyuchenlab, GaGaLab"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://liuyuchenlab.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://liuyuchenlab.github.io/" # you code repository
+github_repo: "https://liuyuchenlab.github.io.it/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
