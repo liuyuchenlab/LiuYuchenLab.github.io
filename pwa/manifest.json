@@ -1,13 +1,13 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
+  "name": "刘雨辰 | liuyuchenlab",
+  "short_name": "GaGaLab",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "icons/music-128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/music-512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
