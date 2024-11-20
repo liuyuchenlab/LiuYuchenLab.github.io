@@ -57,14 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: gagalab
+disqus_username: gagalab
 
 
 
----
-layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
----
+
 
 
 
